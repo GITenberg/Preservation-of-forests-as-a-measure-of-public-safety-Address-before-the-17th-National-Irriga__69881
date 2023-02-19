@@ -1,5 +1,8 @@
 _repo: Preservation-of-forests-as-a-measure-of-public-safety-Address-before-the-17th-National-Irriga__69881
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69881-h/images/cover.jpg
 creator:
   author:
     agent_name: Baeta Neves, Lourenço
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '55472'
     url: http://www.gutenberg.org/2009/agents/55472
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69881#Preservation-of-forests-as-a-measure-of-public-safety-Address-before-the-17th-National-Irriga_
 gutenberg_issued: '2023-01-26'
 identifiers:
   gutenberg: '69881'
